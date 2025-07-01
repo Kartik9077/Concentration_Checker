@@ -1,4 +1,4 @@
-🎯 Concentration Tracker
+🎯 Concentration Checker
 
 A real-time attention monitoring system using MediaPipe and OpenCV. This tool evaluates user concentration based on eye blinks, gaze direction, and head pose, making it ideal for study monitoring, remote learning, and productivity applications.
 
